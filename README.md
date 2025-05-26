@@ -29,14 +29,7 @@ A sleek, minimal, and blazing-fast note/code snippet manager built with **React 
 - 💾 **LocalStorage** for paste persistence (no backend required)
 - 🎯 **Lucide-react** for modern icons
 
----
 
-## 📸 Screenshots
-
-
-| Home Page | Pastes Page |
-|-----------|-------------|
-| ![Home](./screenshots/home.png) | ![Pastes](./screenshots/pastes.png) |
 
 ---
 
@@ -46,7 +39,7 @@ To run this project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/quickdraft.git
+git clone https://github.com/guptaditya123/quickdraft.git
 cd quickdraft
 
 # Install dependencies
