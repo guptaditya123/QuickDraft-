@@ -1,12 +1,49 @@
-# React + Vite
+# ✨ QuickDraft
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek, minimal, and blazing-fast note/code snippet manager built with **React (Vite)**.  
+**QuickDraft** helps you capture, edit, and share your ideas or code snippets effortlessly with a beautiful, dark-themed interface and intuitive controls.
 
-Currently, two official plugins are available:
+🔗 **Live Demo**: [https://quick-draft-psi.vercel.app/](https://quick-draft-psi.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🏠 **Create** quick notes or code snippets on the homepage
+- 📋 **View & search** all your saved drafts in a dedicated section
+- 📝 **Edit** and update any paste seamlessly
+- ❌ **Delete** unwanted drafts instantly
+- 🔗 **Copy & Share** unique paste links
+- 👁️ **Preview full paste** in a dedicated view
+- 🌙 **Dark UI** for a clean and modern user experience
+
+---
+
+## 🧱 Tech Stack
+
+- ⚛️ **React** (Vite)
+- 🎨 **TailwindCSS** for rapid UI styling
+- 🗂️ **Redux Toolkit** for state management
+- 🔔 **React Toastify** for notifications
+- 🧭 **React Router** for seamless navigation
+- 💾 **LocalStorage** for paste persistence (no backend required)
+- 🎯 **Lucide-react** for modern icons
+
+
+
+---
+
+## 🛠️ Getting Started
+
+To run this project locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/guptaditya123/quickdraft.git
+cd quickdraft
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
